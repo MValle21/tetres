@@ -17,7 +17,7 @@ itsdangerous==0.24
 Jinja2==2.10
 Mako==1.0.7
 MarkupSafe==1.0
-matplotlib==2.1.2
+matplotlib==2.2.0
 numpy==1.15.4
 pg8000==1.11.0
 pluggy==0.6.0
